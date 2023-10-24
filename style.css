@@ -1,0 +1,9 @@
+.post-replacer-warning{
+    position: fixed;
+    padding: 25px;
+    bottom: 0;
+    right: 0;
+    background-color: red;
+    z-index: 999999999;
+    color: white;
+}
